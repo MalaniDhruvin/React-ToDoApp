@@ -1,0 +1,28 @@
+h1{
+  font-weight: 700;
+  font-size:45px;
+  margin: 12px 5px;
+  font-family: cursive;
+  cursor: pointer;
+}
+
+.item-container{
+  text-align:left ;
+  font-family: cursive;
+}
+
+input{
+  width: 100%;
+  font-family: cursive;
+}
+
+.main-button{
+
+  min-width: 100px;
+  font-family: cursive;
+}
+
+.main-container{
+  margin-bottom: 10px;
+
+}
